@@ -38,9 +38,6 @@ while answer == '1':
                     print("Вводьте правильні дані!")
 
     # Знаходження добутку масивів array1 і array2:
-    """
-    array3 = array1 * array2
-    """
     for i in range(3):
         for j in range(3):
             for k in range(3):
